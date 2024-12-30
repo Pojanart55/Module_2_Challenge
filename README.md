@@ -26,6 +26,6 @@ Below please find my thought logic behind the code for this challenge
       * Data integrity: ensure that all values are numeric and correctly formatted for performing the script.
       * Error handling: I spent many hrs in debugging. I utilized Xpert Learning Assistant and Gemini throuhgout the debugging process. I have to admit that it's quite stressful when the output results didn't display as expected. I have learnt a lot though. 
 
- Attached please find the VBA file, Screenshots of the results for each quarter.  Please note that the screenshot only display the results from the summary table up to row 30. Therefore, I submit the Excel Macro file as part of my submission as well. 
-
+ Attached please find the VBA file, Screenshots of the results for each quarter.  Please note that the screenshot only display the results from the summary table up to row 30. Therefore, I submit link to the Excel Macro file as part of my submission as well. 
+https://drive.google.com/file/d/1869DlGNXHpmw379nqmb3Rbch_2PBO9DK/view?usp=sharing
 
